@@ -8,3 +8,4 @@ O bootcamp é repleto de recursos e atividades interativas para garantir uma exp
 * Aula 02 - SQL para Analytics: Nossas primeiras consultas
 * Aula 03 - SQL para Analytics: Join and Having in SQL
 * Aula 04 - Windows Function
+* Aula 05 - Projeto de Análise de dados
