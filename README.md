@@ -12,3 +12,4 @@ O bootcamp é repleto de recursos e atividades interativas para garantir uma exp
 * Aula 06 - CTE vs Subqueries vs Views vs Temporary Tables vs Materialized Views
 * Aula 07 - Stored Procedures
 * Aula 08 - Revisão
+* Aula 09 - Triggers (Gatilhos) e Projeto Prático II
