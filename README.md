@@ -13,3 +13,5 @@ O bootcamp é repleto de recursos e atividades interativas para garantir uma exp
 * Aula 07 - Stored Procedures
 * Aula 08 - Revisão
 * Aula 09 - Triggers (Gatilhos) e Projeto Prático II
+* Aula 10 - Transação
+* Aula 11 : Ordem de consulta
