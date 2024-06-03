@@ -17,3 +17,4 @@ O bootcamp é repleto de recursos e atividades interativas para garantir uma exp
 * Aula 11 : Ordem de consulta
 * Aula 12 : Database Indexing
 * Aula 13 : Database Partition
+* Aula 16 : DBT Core
